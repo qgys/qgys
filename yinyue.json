@@ -1,0 +1,93 @@
+{
+    "spider": "https://gitee.com/tao2620/zxck/raw/master/yscck/tao.jar",
+    "logo":"https://raw.gitcode.com/mfkdxk/zb/raw/main/logo.gif",
+    "wallpaper": "https://bing.img.run/rand.php",
+    "lives": [
+      {
+        "name": "涛涛live",
+        "type": 0,
+        "url": "https://chuxinya.top/f/BBq1I8/yinyuelive.m3u"
+      }
+    ],
+    "sites": [
+      {
+        "key": "哔哩",
+        "name": "全网🎧音乐",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 0,
+        "ext": "https://gitee.com/tao2620/taoBox/raw/master/js/哔哩MTV.json"
+      },
+      {
+        "key": "js_酷狗MV",
+        "name": "狗狗🎧音乐",
+        "type": 3,
+        "api": "https://jihulab.com/su7/4k/-/raw/master/lab/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://jihulab.com/su7/4k/-/raw/master/js/酷狗MV.js"
+      },
+      {
+        "key": "yinyue",
+        "name": "榜单🎧音乐",
+        "type": 3,
+        "api": "csp_Kugou",
+        "jar": "https://gitee.com/xiaoyu91353/yinyue/raw/master/ext/spider618.jar",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1,
+        "style": {
+          "type": "rect",
+          "ratio": 1.433
+        }
+      },
+      {
+        "key": "分类音乐",
+        "name": "分类🎧音乐",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 0,
+        "ext": "https://gitee.com/tao2620/taoBox/raw/master/js/yinyue.json"
+      },
+      {
+        "key": "吾爱演唱会",
+        "name": "哔哩🎧演唱",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://gitee.com/tao2620/taoBox/raw/master/js/吾爱演唱会.json"
+      },
+      {
+        "key": "直播转点播",
+        "name": "音乐🎧点播",
+        "type": 3,
+        "api": "https://6396.kstore.space/js文件/zbzdb.js",
+        "ext": "https://6396.kstore.space/js文件/MTV.txt"
+      },
+      {
+        "key": "drpy_js_蜻蜓FM",
+        "name": "蜻蜓🎧FM",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
+        "playerType": "2"
+      },
+      {
+        "key": "健身瑜伽",
+        "name": "健身🎧瑜伽",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "filterable": 1,
+        "changeable": 0,
+        "ext": "https://gitee.com/tao2620/taoBox/raw/master/js/哔哩合集2.json"
+      }
+    ]
+  }
