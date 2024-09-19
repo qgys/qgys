@@ -7,7 +7,7 @@
 //其他说明ua:用户代理,epg:节目网址,logo:台标网址,boot:是否自动开启
 
 {"spider":"http://74.120.175.78/JK/XYQTVBox/pg.jar",
-"logo":"https://raw.gitcode.com/mfkdxk/zb/raw/main/logo.gif",
+"logo":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/logo.gif",
 "sites":[
 {"key":"夜猫短剧","name":"🍡夜猫短剧","type":3,"api":"csp_YMduanju",
 "jar":"http://74.120.175.78/JK/XYQTVBox/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},

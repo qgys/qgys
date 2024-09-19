@@ -45,7 +45,7 @@
  "lives": [
  {"name": "live","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
       
-   "logo":"https://raw.gitcode.com/mfkdxk/zb/raw/main/logo.gif",
+   "logo":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/logo.gif",
    "wallpaper": "https://bing.img.run/rand.php",
    "sites": [
   
@@ -170,7 +170,7 @@
        "searchable": 1,				
        "quickSearch": 1,				
        "filterable": 1,						
-       "ext":"https://raw.gitcode.com/mfkdxk/zb/raw/main/ext.js"},
+       "ext":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/ext.js"},
  
        
  {
