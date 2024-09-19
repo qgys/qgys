@@ -1,12 +1,13 @@
 
 {
- // "spider": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+
   "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",
   "parses": [
 
     
-   {"name":"超级并发","type":3,"url":"Demo"}, 
-   
+//{"name":"超级并发","type":3,"url":"Demo"}, 
+    {"name":"QG|影视","type":1,"url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
+    {"name":"QG影视|","type":1,"url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
    
    //来自涛涛
    {
@@ -78,11 +79,12 @@
 
  
 
-//{"key": "摸鱼4K","name": "💯4K需要验证","type": 3,"api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js","playurl": "json:http://103.117.123.51:6523/zhuimi666.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"},
+{"key":"腾腾","name":"🎦腾腾VIP","jar":"http://rihou.cc:55/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%BF%83%E8%BD%AF%E4%BB%B6/ttkx.jar",
+"type":3,"api":"http://rihou.cc:55/lib/drpy_libs/drpy2.min.js","ext":"http://rihou.cc:55/lib/腾讯VIP.js","playurl":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
 
 {
 "key": "hipy_js_腾云驾雾",
-"name": "🌷腾讯线路1",
+"name": "🌷腾腾备用",
 "type": 3,
 "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
 "searchable": 1,
