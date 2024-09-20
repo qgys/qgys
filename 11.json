@@ -1,7 +1,8 @@
 
 {
 
-  "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",
+//"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",//欧歌
+"spider":"http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB",//喵YS
   "parses": [
 
     
@@ -49,8 +50,8 @@
   "logo":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/logo.gif",
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
- 
-    {"key": "豆瓣推荐","name": "强哥影视豆瓣推荐🌷🌻🌹","type": 3,"api": "csp_DouDou"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key":"豆瓣推荐","name":"强哥影视豆瓣推荐🌷🌻🌹","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+//{"key": "豆瓣推荐","name": "强哥影视豆瓣推荐🌷🌻🌹","type": 3,"api": "csp_DouDou"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
     {
       "key": "追剧影视",
@@ -163,16 +164,18 @@
             ]
         },
 
-		{		
-			"key": "粉木耳资源",
-			"name": "🌷粉木耳资源",	
-      "jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
-  		"type": 3,
-			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,				
-			"quickSearch": 1,				
-			"filterable": 1,						
-      "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qgys/qgys/main/ext.js"},
+    {
+      "key": "粉木耳资源",
+      "name": "🌷粉木耳资源",
+      //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",
+      "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "type": 3,
+      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/ext.js"
+    },
 
       
 {
