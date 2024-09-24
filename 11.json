@@ -60,7 +60,7 @@
   "sites": [
 	 {"key":"农民影视","name":"🌷热门影视","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32","type":3,"api":"csp_WexNmys", "searchable":1,"timeout":5,"changeable":1,"quickSearch": 1,"filterable": 1},
 
-	  {"key":"豆瓣推荐","name":"强哥影视豆瓣推荐🌷🌻🌹","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+	  {"key":"豆瓣推荐","name":"豆瓣推荐🌷🌻🌹","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 
  {
       "key": "追剧影视",
@@ -85,7 +85,9 @@
     "quickSearch": 1,
     "changeable": 1
 },
-  
+  {"key":"腾腾","name":"🎦腾腾解析","jar":"http://rihou.cc:55/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%BF%83%E8%BD%AF%E4%BB%B6/ttkx.jar",
+"type":3,"api":"http://rihou.cc:55/lib/drpy_libs/drpy2.min.js","ext":"http://rihou.cc:55/lib/腾讯VIP.js"},
+
 {
 "key": "hipy_js_腾云驾雾",
 "name": "🌷腾腾备用",
