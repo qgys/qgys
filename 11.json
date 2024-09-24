@@ -6,30 +6,38 @@
   "parses": [
 
     
-//{"name":"超级并发","type":3,"url":"Demo"}, 
-    {"name":"QG|影视","type":1,"url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
-    {"name":"QG影视|","type":1,"url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
-   
-   //来自涛涛
-   {
-		"name": "首选解析",
-		"type": 1,
-		"url": "http://117.50.183.202:8036/?ip=111.55.12.236&url="
-	},	
+{"name":"超级并发","type":3,"url":"Demo"}, 
 
-
-  
     {"name":"强哥解析","type": 0,"url": "https://jx.xmflv.com/?url="},
     
 
     {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-       // {"name":"巧技解析","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+
         {"name": "蓝光1", "type": 0, "url": " https://jx.m3u8.pw/?url=" },
-    {
-                "name": "盘古",
-            "type": 0,
-            "url": "https://www.pangujiexi.com/pangu/?url="
-        },
+ {"name": "4K解析","type": 1,"url": "http://112.74.124.75:8899/jiexi/api.php?url=","ext": {"flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
          {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
              
 
@@ -50,10 +58,11 @@
   "logo":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/logo.gif",
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
- {"key":"豆瓣推荐","name":"强哥影视豆瓣推荐🌷🌻🌹","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-//{"key": "豆瓣推荐","name": "强哥影视豆瓣推荐🌷🌻🌹","type": 3,"api": "csp_DouDou"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+	 {"key":"农民影视","name":"🌷热门影视","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32","type":3,"api":"csp_WexNmys", "searchable":1,"timeout":5,"changeable":1,"quickSearch": 1,"filterable": 1},
 
-    {
+	  {"key":"豆瓣推荐","name":"强哥影视豆瓣推荐🌷🌻🌹","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+
+ {
       "key": "追剧影视",
       "name": "💡追剧┃影视",
       "jar": "http://ys.wya6.cn/tz/wyog.php;md5;ba2be4662147a4ab7ec2292cc516fb32",
@@ -77,12 +86,6 @@
     "changeable": 1
 },
   
-
- 
-
-{"key":"腾腾","name":"🎦腾腾VIP","jar":"http://rihou.cc:55/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%BF%83%E8%BD%AF%E4%BB%B6/ttkx.jar",
-"type":3,"api":"http://rihou.cc:55/lib/drpy_libs/drpy2.min.js","ext":"http://rihou.cc:55/lib/腾讯VIP.js","playurl":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
-
 {
 "key": "hipy_js_腾云驾雾",
 "name": "🌷腾腾备用",
@@ -110,12 +113,11 @@
   "timeout": 10
 },
 
- {"key":"农民影视","name":"🌷农民影视","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32","type":3,"api":"csp_WexNmys", "searchable":1,"timeout":5,"changeable":1,"quickSearch": 1,"filterable": 1},
  {"key": "360","name": "🌷飞龙秒播影视","type": 1,"api": "https://360zy.com/api.php/provide/vod?",
 "searchable": 1,"changeable": 1,"categories": [
 "动作片","战争片","恐怖片", "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧","纪录片"]},
 
-//    {"key": "mmys","name": "🌷萌米影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"timeout": 15,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
+//{"key": "mmys","name": "🌷萌米影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"timeout": 15,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
  
     {
       "key": "文采",
