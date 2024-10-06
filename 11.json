@@ -6,9 +6,8 @@
   "parses": [
 
     
-//{"name":"超级并发","type":3,"url":"Demo"}, 
-    {"name":"QG|影视","type":1,"url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
-    {"name":"QG影视|","type":1,"url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url="},
+{"name":"超级并发","type":3,"url":"Demo"}, 
+
    
    //来自涛涛
    {
@@ -23,7 +22,7 @@
     
 
     {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-       // {"name":"巧技解析","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+
         {"name": "蓝光1", "type": 0, "url": " https://jx.m3u8.pw/?url=" },
     {
                 "name": "盘古",
@@ -50,8 +49,17 @@
   "logo":"https://chuxinya.top/f/oYYDcv/logo.gif",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-  {"key":"豆瓣推荐","name":"🌟影片推荐","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-    {"key": "豆瓣推荐","name": "强哥影视豆瓣推荐🌷🌻🌹","type": 3,"api": "csp_DouDou"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+      {
+      "key": "强哥影视",
+      "name": "影视推荐",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "https://raw.gitcode.com/mfkdxk/qgdc/raw/main/o.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+{"key":"豆瓣推荐","name":"🌟影片推荐","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+
   
 	{"key": "atys","name": "奥特影视","type": 3,"api": "csp_Auete"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 15,"ext": "https://auete.pro/","jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"},
 	
