@@ -115,19 +115,27 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
-    {"key":"荐片弹幕","jar":"https://yt.wya6.cn/tz/wyxs.php;md5;5373bfbbb0b009366ffcc5cf6b4ead5d","name":"荐片｜弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-
-        {
-            "key": "csp_瓜子",
-            "name": "🇹┃瓜子影视┃秒播",
-            "api": "csp_Gz360",
-            "jar": "https://raw.gitcode.com/mfkdxk/qgdc/raw/jar/xm.jar",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout":5,
-            "changeable": 1
-        },
+     {
+      "key": "4K_XYQHiker",
+      "name": "🎦4K┃XYQHiker",
+      "jar": "https://raw.gitcode.com/mfkdxk/qgdc/raw/jar/kaixin.jar",
+      "changeable": 1,"timeout":5,
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/mfkdxk/qgdc/raw/js/4kav.json"
+    },
+    {"key": "csp_XBPQ_6V",
+  "name": "|影港4K",
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+   "changeable": 0,"timeout":5 "ext":"https://download.kstore.space/download/4637/lib/6v.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"},
 
     {
       "key": "php_heimuer",
@@ -146,17 +154,7 @@
 {"key": "csp_XYQBiu_骚火VIP","name": "🇹┃骚火秒播┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"ua": "okhttp/3.15","quickSearch": 1,"filterable": 1,"ext": "https://raw.gitcode.com/mfkdxk/qgdc/raw/js/shyyVIP.json"},
 {"key":"厂长弹幕","name":"厂长｜弹幕","jar":"https://yt.wya6.cn/tz/wyxs.php;md5;5373bfbbb0b009366ffcc5cf6b4ead5d","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 
-        {
-      "key": "hipy_js_4K-AV",
-      "name": "🇹┃4K-AV-PY┃T3",
-      "type": 3,
-      "api": "https://raw.gitcode.com/mfkdxk/qgdc/raw/js/4Kdrpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://raw.gitcode.com/mfkdxk/qgdc/raw/js/4K-AV.js"
-    },
+       
 
 //{"key": "蚂蚁资源","name": "蚂蚁｜采集","type": 1,"api": "http://dsakf23665.com/api.php/provide/vod/from/NBY","searchable": 1,"changeable": 1,"playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="},
      
