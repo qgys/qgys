@@ -135,7 +135,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-   "changeable": 0,"timeout":5 "ext":"https://download.kstore.space/download/4637/lib/6v.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"},
+   "changeable": 0,"timeout":5,"ext":"https://download.kstore.space/download/4637/lib/6v.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"},
 
     {
       "key": "php_heimuer",
