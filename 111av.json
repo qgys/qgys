@@ -99,7 +99,7 @@
     },
     {"key":"南瓜TW","name":"🇹┃南瓜影视┃秒播","type":3,"api":"https://raw.gitcode.com/mfkdxk/qgdc/raw/js/drpy2.min.js","ext":"https://raw.gitcode.com/mfkdxk/qgdc/raw/js/nangua.js"},
 {"key":"南瓜wy弹幕","name":"南瓜｜弹幕","jar":"https://raw.gitcode.com/mfkdxk/qgdc/raw/jar/wuyi.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-//{"key": "csp_JPYY","name": "🇹┃金牌影视┃秒播","jar": "https://raw.gitcode.com/mfkdxk/qgdc/raw/jar/xm.jar","type":3,"searchable":1,"quickSearch":1,"filterable":1,"timeout":7,"changeable": 1,"api": "csp_Jpyy","playerType": 1,"ext": ""},
+{"key": "csp_JPYY","name": "🇹┃金牌影视┃秒播","jar": "https://raw.gitcode.com/mfkdxk/qgdc/raw/jar/xm.jar","type":3,"searchable":1,"quickSearch":1,"filterable":1,"timeout":7,"changeable": 1,"api": "csp_Jpyy","playerType": 1,"ext": ""},
   	{"key":"优质资源","name":"资源🍁蓝光","type":1,"api":"https://api.1080zyku.com/inc/apijson.php?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url=","categories":["国产剧","动作片","喜剧片","爱情片","冒险片","科幻片","恐怖片","剧情片","战争片","动漫片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","韩国剧","短剧大全","国产动漫","日韩动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 
 
@@ -156,9 +156,8 @@
 
        
 
-//{"key": "蚂蚁资源","name": "蚂蚁｜采集","type": 1,"api": "http://dsakf23665.com/api.php/provide/vod/from/NBY","searchable": 1,"changeable": 1,"playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="},
      
-     //{"key": "小马","name": "🐎小马┃蓝光┃纯净","jar": "https://raw.gitcode.com/mfkdxk/qgdc/raw/main/moyu.jar;md5;be6121b5c37471b191114027123912d2","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
+     {"key": "小马","name": "🐎小马┃蓝光┃纯净","jar": "https://raw.gitcode.com/mfkdxk/qgdc/raw/main/moyu.jar;md5;be6121b5c37471b191114027123912d2","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
      
      {"key":"大米wy星球","name":"大米｜APP","jar":"https://raw.gitcode.com/mfkdxk/qgdc/raw/jar/wuyi.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"素白白tao","name":"素白🍁资源","jar":"https://raw.gitcode.com/mfkdxk/qgdc/raw/jar/taotao.jar","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1},
@@ -293,7 +292,7 @@
     "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
     "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
     
-//{"key":"迅雷吧","name":"💘迅雷吧磁力","type":3,"api":"csp_Xunlei8","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"迅雷吧","name":"💘迅雷吧磁力","type":3,"api":"csp_Xunlei8","jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32","searchable":1,"quickSearch":1,"filterable":1},
     
     {"key":"Mp4电影","name":"💘Mp4电影磁力","type":3,"api":"csp_Mp4Mov",
      "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
