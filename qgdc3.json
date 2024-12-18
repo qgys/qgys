@@ -5,7 +5,7 @@
     {"name": "小米👪找腾腾","url": "http://www.mpanso.com/小米/DEMO.json"},
     {"name": "无意👪找HDR","url":"http://ys.wya6.cn/tz/ya.php"},
 	
-    {"name": "神马👪找4K","url":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/shenma.json"},
+    {"name": "神马👪找4K","url":"https://ghproxy.cc/https://raw.githubusercontent.com/qgys/qgys/main/shenma.json"},
 	
     {"name": "饭太硬👪","url":"http://www.饭太硬.com/tv"},
 
@@ -13,7 +13,7 @@
     {"name": "欧歌👪","url": "http://tv.nxog.top/m/111.php"},
     {"name": "肥猫👪","url":"http://肥猫.com/"},
     
-    {"name": "TT影视👪","url":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/tao.json"}, 
+    {"name": "TT影视👪","url":"https://ghproxy.cc/https://raw.githubusercontent.com/qgys/qgys/main/tao.json"}, 
     {"name": "开心👪","url": "http://rihou.cc:55/天天开心"},
     {"name": "飘零👪","url": "https://www.100km.top/0"},
     {"name": "T 4👪","url": "https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json"},
@@ -22,7 +22,7 @@
     
     {"name": "天微VIP👪","url":"https://gitee.com/tv888/tv/raw/master/svip.json"},
     {"name": "动漫城👪","url":"https://www.yingm.cc/dm/dm.json"},
-    {"name": "短剧👪","url":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/dj.json"},
+    {"name": "短剧👪","url":"https://ghproxy.cc/https://raw.githubusercontent.com/qgys/qgys/main/dj.json"},
     {"name": "短剧备用👪","url":"http://74.120.175.78/JK/XYQTVBox/dj.json"},
     //{"name": "神仙👪","url":"http://pt.sxtv.top:66/sx.json"},
     {"name": "黄金仓👪","url":"https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"},
@@ -64,7 +64,7 @@
 
 
 	{"name": "PiGY备用","url":"https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"},
-    {"name": "强哥影视👪","url":"https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/111av.json"},
+    {"name": "强哥影视👪","url":"https://ghproxy.cc/https://raw.githubusercontent.com/qgys/qgys/main/111av.json"},
     {"name": "菜妮丝👪","url":"https://tv.xn--yhqu5zs87a.top"},
     {"name": "环宇轩👪","url":"https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json"},
     {"name": "木鱼木👪","url":"https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/d508ce3e-f916-4f62-b06d-b3d2f12ce130.json"},
@@ -80,7 +80,7 @@
     {"name": "小马👪","url": "https://szyyds.cn/tv/x.json"},
 
     {"name": "网盘1👪","url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json"},
-    {"name": "网盘2👪","url":"https://gitdl.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"}
+    {"name": "网盘2👪","url":"https://ghproxy.cc/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"}
 
     ]
    }
